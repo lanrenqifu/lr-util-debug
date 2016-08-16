@@ -1,0 +1,28 @@
+{
+  "name": "lr-util-debug",
+  "version": "0.1.0",
+  "description": "a cmd utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lanrenqifu/lr-util-debug"
+  },
+  "keywords": [
+    "cmd",
+    "util"
+  ],
+  "author": {
+    "name": "lanren"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanrenqifu/lr-util-debug/issues"
+  },
+  "homepage": "https://github.com/lanrenqifu/lr-util-debug",
+  "dependencies": {
+    "chalk": "^1.0.0"
+  }
+}
